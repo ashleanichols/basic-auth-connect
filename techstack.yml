@@ -2,7 +2,7 @@ repo_name: ashleanichols/basic-auth-connect
 report_id: b208bc90f1ea673021a32a4887ea6fd7
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:14:12+00:00'
+timestamp: '2024-02-29T18:15:40+00:00'
 requested_by: Fishrock123
 provider: github
 branch: master
@@ -44,7 +44,7 @@ tools:
   last_updated_by: Jonathan Ong
   last_updated_on: 2014-01-08 08:02:35.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   license: MIT
   open_source: true
